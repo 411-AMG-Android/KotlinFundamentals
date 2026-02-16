@@ -66,4 +66,7 @@ fun main(){
     // Cambio pendiente
     // CAMBIO QUE SE ME OLVIDÓ POR TONTO
     // ÚTLIMO CAMBIO ESTOY BIEN WEY AYUDA
+    val variable = ""
+    val testing = 2
+    val nose = 1.0
 }
