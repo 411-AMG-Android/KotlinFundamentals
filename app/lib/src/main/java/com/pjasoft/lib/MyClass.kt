@@ -62,4 +62,8 @@ fun main(){
     val inputprimos = readlnOrNull()
     val numero = input?.toIntOrNull()
 
+    // Cambio interesante
+    // Cambio pendiente
+    // CAMBIO QUE SE ME OLVIDÓ POR TONTO
+    // ÚTLIMO CAMBIO ESTOY BIEN WEY AYUDA
 }
