@@ -71,4 +71,5 @@ fun main(){
     val nose = 1.0
 
     //Creando la funcionalidad de registrarse en la app
+    //Creando la conexión con la API
 }
